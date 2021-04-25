@@ -1,0 +1,78 @@
+﻿body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin-top: 20px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  background-color: rgb(185, 185, 233);
+}
+.form{
+  width: 400x;
+  margin: auto;
+  padding-top: 40px;
+
+}
+.card{
+  box-shadow: 1px 1px 5px gray;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 5px;
+}
+.card-top{
+  text-align: center;
+}
+.card-group{
+  margin-bottom: 10px;
+}
+.es1{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.card-group>button{
+  background-image: linear-gradient(to right, rgb(204, 204, 236), rgb(118, 118, 151));
+  width: 100%;
+  border-radius: 30px;
+  padding: 15px;
+  color: white;
+  border: 0px;
+  outline: 0;
+}
+.card-group>label{
+  width: 100%;
+  color: rgb(146, 141, 141);
+  display: block;
+}
+.card-group >input{
+  border-radius: 5px;
+  outline: 0;
+  width: 100%;
+  height: 25px;
+  padding: 5px;
+}
+.imagem{
+  width: 80px;
+}
+.titulo{
+  color: rgb(92, 92, 139);
+}
+.titulo2{
+  color: gray;
+}
+.borda{
+  box-shadow: 1px 1px 5px gray;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 5px;
+}
+.tabela {
+  border-collapse: collapse;
+  width: 100%;
+  padding: 8px;
+  text-align: justify;
+  }
+
+.tabela th {
+  background-color: rgb(192, 192, 231);
+  border-radius: 5px;
+}
