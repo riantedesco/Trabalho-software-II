@@ -1,0 +1,12 @@
+Item / nota   (de A a E)
+
+1. Toda a documentação do projeto  (A) Importante descrever o escopo do produto 
+2. Plano de desenvolvimento *** (a partir do projeto, selecionar apenas os módulos que serão desenvolvidos)  (D-)  Nao localizado
+3. Cronograma do desenvolvimento (aquele elaborado e apresentado em aula x o que aconteceu na real)  (D-)  Nao localizado
+4. Banco de dados (A)  
+5. Código fonte A
+6. Video de no máximo 10/20 minutos de como está organizada a arquitetura do software e seu funcionamento. Cada integrante do grupo deve dizer qual foi sua contribuição no projeto.   A
+
+Nota Final: D  - Entre 5 e 5,5
+
+Os itens 1 e 2 eu nao localizei.
